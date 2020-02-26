@@ -1,1 +1,1 @@
-document.getElementById("name").innerHTML="vishnu"
+console.log('hello')
